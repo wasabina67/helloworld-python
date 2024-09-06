@@ -1,4 +1,4 @@
 build:
-	pyinstaller --onefile helloworld.py
+	pyinstaller --onefile --clean helloworld.py
 
 .PHONY: build
