@@ -23,7 +23,11 @@ make build
 ./dist/helloworld
 ```
 
-### Download from GitHub releases and run it
+### Download from GitHub releases
+
+```bash
+curl -L -o helloworld https://github.com/wasabina67/helloworld-python/releases/download/v1/helloworld
+```
 
 ```bash
 curl -L -o helloworld https://github.com/wasabina67/helloworld-python/releases/download/v1/helloworld
