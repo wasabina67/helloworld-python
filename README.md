@@ -25,10 +25,14 @@ make build
 
 ### Download from GitHub releases
 
+- v1
+
 ```bash
 curl -L -o helloworld https://github.com/wasabina67/helloworld-python/releases/download/v1/helloworld && \
 chmod +x helloworld
 ```
+
+- latest
 
 ```bash
 curl -L -o helloworld https://github.com/wasabina67/helloworld-python/releases/latest/download/helloworld && \
