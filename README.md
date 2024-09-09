@@ -31,7 +31,7 @@ chmod +x helloworld
 ```
 
 ```bash
-curl -L -o helloworld https://github.com/wasabina67/helloworld-python/releases/download/v1/helloworld && \
+curl -L -o helloworld https://github.com/wasabina67/helloworld-python/releases/latest/download/helloworld && \
 chmod +x helloworld
 ```
 
