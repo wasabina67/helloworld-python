@@ -26,18 +26,16 @@ make build
 ### Download from GitHub releases
 
 ```bash
-curl -L -o helloworld https://github.com/wasabina67/helloworld-python/releases/download/v1/helloworld
+curl -L -o helloworld https://github.com/wasabina67/helloworld-python/releases/download/v1/helloworld && \
+chmod +x helloworld
 ```
 
 ```bash
-curl -L -o helloworld https://github.com/wasabina67/helloworld-python/releases/download/v1/helloworld
+curl -L -o helloworld https://github.com/wasabina67/helloworld-python/releases/download/v1/helloworld && \
+chmod +x helloworld
 ```
 
 ### Run
-
-```bash
-chmod +x helloworld
-```
 
 ```bash
 ./helloworld
